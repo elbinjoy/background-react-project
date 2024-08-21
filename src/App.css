@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(209, 235, 225);
+}
+
+
+#rred{
+  color: red;
+  margin: 10px;
+}
+#bblue{
+  color: blue;
+  margin: 10px;
+}
+#ggren{
+  color: green;
+  margin: 10px;
+}
+#wwhite{
+  color: white;
+  margin: 10px;
+}
